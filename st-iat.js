@@ -30,8 +30,8 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/stiat/qua
 				height : 7 //Used to position the "Or" in the combined block.
 			}, 
 			media : [ //Stimuli
-				{word: 'Bomb'},
-				{word: 'Abuse'},
+				{word: 'Awful'},
+				{word: 'Nightmare'},
 				{word: 'Sadness'},
 				{word: 'Pain'},
 				{word: 'Poison'},
